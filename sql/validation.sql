@@ -20,4 +20,4 @@ FROM dbo.silver_green_taxi_trips;
 
 -- Gold revenue
 SELECT ROUND(SUM(TotalRevenue), 2) AS GoldRevenue
-FROM dbo.gold_daily_trip_summary;
+FROM dbo.gold_daily_trip_summary;x
