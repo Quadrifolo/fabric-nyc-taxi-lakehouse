@@ -115,7 +115,7 @@ See: `documentation/testing.md`
 
 ### Executive Overview
 
-[Screenshot]
+![NYC Taxi Executive Overview](power-bi/screenshots/Executive%20Overivew.png)
 
 Provides:
 - Total Trips
@@ -130,7 +130,7 @@ Provides:
 
 ### Vendor & Fare Analysis
 
-[Screenshot]
+![Vendor & Fare Analysis](power-bi/screenshots/Vendor%20Performance.png)
 
 Provides:
 - Trips by vendor
