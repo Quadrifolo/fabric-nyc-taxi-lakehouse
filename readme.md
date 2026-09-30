@@ -130,7 +130,7 @@ Provides:
 
 ### Vendor & Fare Analysis
 
-![Vendor & Fare Analysis]((power-bi/screenshots/Vendor%20&%20Fare%20Analysis.png))
+![Vendor & Fare Analysis](power-bi/screenshots/Vendor%20&%20Fare%20Analysis.png)
 
 Provides:
 - Trips by vendor
